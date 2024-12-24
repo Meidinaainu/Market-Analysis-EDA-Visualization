@@ -1,4 +1,4 @@
-# Market-Analysis-EDA
+# Market-Analysis-EDA-Python
 Exploratory Data Analysis (EDA) on E-Commerce Market Trends with 1000 data
 
 # Variables
